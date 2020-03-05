@@ -1,15 +1,14 @@
 {
-    "name": "getnews/getnews-plugin",
-    "description": "getnews plugin",
+    "name": "witalo.sena/getnews-witalo",
+    "description": "meu plugin get news",
     "type": "project",
     "license": "GPL",
     "authors": [
         {
-            "name": "Getnews",
+            "name": "witalossena",
             "email": "sousawitalo@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {"Inc\\": "./inc"}

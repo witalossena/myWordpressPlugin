@@ -1,8 +1,9 @@
 <?php
+
 /**
  * @package Getnews
  */
-namespace Inc;
+namespace Inc\Base;
 
 class Activate
 {
