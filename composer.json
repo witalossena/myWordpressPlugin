@@ -1,0 +1,17 @@
+{
+    "name": "getnews/getnews-plugin",
+    "description": "getnews plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Getnews",
+            "email": "sousawitalo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
